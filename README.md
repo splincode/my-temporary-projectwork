@@ -51,7 +51,7 @@ align="left" border="2" width="30%" />
 
 <img src="https://raw.githubusercontent.com/splincode/splincode.github.io/master/portfolio/8.jpg" 
 align="left" border="2" width="30%" />
-<b>EstherJS</b> — данный скрипт предназначен для поворота, вращения на 0-360° элементов на странице. Скрипт является абсолютно кроссбраузерным, легок в использовании. Поддержка браузерами: IE7+, Chrome, Safari, Opera, FirefoxОбъем: 0.5 KB. Выпуск: 2014. <a href="http://splincode.ru/esther/">Подробнее</a> <br> <br><br>
+<b>EstherJS</b> — данный скрипт предназначен для поворота, вращения на 0-360° элементов на странице. Скрипт является абсолютно кроссбраузерным, легок в использовании. Поддержка браузерами: IE7+, Chrome, Safari, Opera, Firefox. Объем: 0.5 KB. В разработке осталось задание по выпуску плагина для jQuery 1.x. Выпуск: 2014. <a href="http://splincode.ru/esther/">Подробнее</a> <br> <br><br>
 
 <hr>
 <br>
