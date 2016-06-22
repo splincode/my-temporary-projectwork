@@ -55,3 +55,10 @@ align="left" border="2" width="30%" />
 
 <hr>
 <br>
+
+<img src="https://habrastorage.org/files/fc6/dc6/bed/fc6dc6bed1f246f6b1e9edaa94e8b9b5.png" 
+align="left" border="2" width="30%" />
+<b>Uply</b> — Универсальный загрузчик файлов на сервер HTML5 и CSS3, c возможностью писать собственные расширения в виде плагинов. HTML5 версия: (Firefox 3.6+, IE10+, Chrome 6+, мобильные браузеры), множественная загрузка, дополнительные настройки в виде установки лимитов, типы файлов, поддержка Drag and Drop, настройки стилей, DOM отображения, настройка сервера. Обычный серверный загрузчик: (IE6-9, Opera, Chrome, Firefox, Safari (где нет поддержки HTML5 API FILE и Flash)), одиночная загрузка, лимит на размер файла. Выпуск: 2014. <a href="http://splincode.ru/uply/">Подробнее</a> <br> <br><br>
+
+<hr>
+<br>
