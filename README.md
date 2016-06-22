@@ -34,3 +34,11 @@
 
 <hr>
 <br>
+
+<img src="https://habrastorage.org/files/174/fe2/683/174fe2683f2b44e28e79d87ea5ae208e.png" align="left" border="2" width="30%" />
+<b>generalSyntax (GS)</b> — cкрипт отображения кода на своей странице, настраиваемая подсветка синтаксиса/ 
+Данные пример показывают, что все ваши теги pre могут быть стилизованы единым отображением. IE8+, Chrome, Opera, Firefox, Safari
+ <a href="http://splincode.ru/gs/">Подробнее</a> <br> <br><br>
+
+<hr>
+<br>
