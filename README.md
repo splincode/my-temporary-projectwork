@@ -24,7 +24,7 @@
 
 
 <img src="https://habrastorage.org/files/7fe/5c6/2f5/7fe5c62f50974b61a544f1a1d7c53165.png" align="left" border="2" width="30%" />
-<b>Transformicons </b> (перевод сайта + допиливание) - это анимированные значки, выполненные в комбинации с SVG, CSS и HTML. На сайте разработчиков вы можете открыть редактор, благодаря которому вы имеете возможность составить свой набор иконок, в таком случае, у вас полный контроль над имеющимся набором. IE10+, Chrome 36+, Safari 6+, Firefox 30+, Opera 22+, iOS 7+, Android 4+, Chrome for Android 38+ <a href="http://splincode.github.io/translate/transformicons/index.html">Подробнее</a> <br> <br><br>
+<b>Transformicons </b> (перевод сайта + допиливание) - это анимированные значки, выполненные в комбинации с SVG, CSS и HTML. На сайте разработчиков вы можете открыть редактор, благодаря которому вы имеете возможность составить свой набор иконок, в таком случае, у вас полный контроль над имеющимся набором. Анимированные иконки, символы и кнопки написанные на SVG и CSS имеют собственный графический редактор для генерации в проект (eng). IE10+, Chrome 36+, Safari 6+, Firefox 30+, Opera 22+, iOS 7+, Android 4+, Chrome for Android 38+ <a href="http://splincode.github.io/translate/transformicons/index.html">Подробнее</a> <br> <br><br>
 
 <hr>
 <br>
