@@ -7,3 +7,10 @@
 
 <hr>
 <br>
+
+
+<img src="https://habrastorage.org/files/285/0aa/e36/2850aae365ef4a5cbbb3c608d4b2cec7.png" align="left" border="2" width="30%" />
+<b>Apachengine</b> - скрипт управления сервером Apache под Linux (веб-панель управления). Есть возможность автоматического добавления, удаления хостов, просмотр php версии, управление phpmyadmin в apache. В предварительной установке будет доступно: PHP7 + Apache2.4 + MySQL5.4 + PHPMyAdmin + Composer. В силу ранней версии, рекомендуется использовать веб-панель управления на виртуальных машинах. <a href="https://github.com/splincode/apachengine">Подробнее</a> <br> <br><br>
+
+<hr>
+<br>
