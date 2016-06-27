@@ -42,14 +42,14 @@
 <hr>
 <br>
 
-<img src="https://raw.githubusercontent.com/splincode/splincode.github.io/master/portfolio/9.jpg" 
+<img src="https://habrastorage.org/files/3e9/da8/9d0/3e9da89d0a9546d8be7a33a0beeaf0d5.jpg" 
 align="left" border="2" width="30%" />
 <b>placeTo</b> — нужно было, чтобы для полей ввода показывались подсказки определенного цвета. В современных браузерах подсказки создаются благодаря атрибуту placeholder. Вот тут я искал готовые решения, но из всех ничего подходящего для себя не нашел. В итоге я написал скрипт за 20 минут, который реализовывал мою задачу, но, чтобы не создавать такой велосипед, созданный мною, я подумал, а не оформить ли в отдельный проект все это, вдруг кому будет интересно. Выпуск: 2014. <a href="http://splincode.ru/placeto/">Подробнее</a> <br> <br><br>
 
 <hr>
 <br>
 
-<img src="https://raw.githubusercontent.com/splincode/splincode.github.io/master/portfolio/8.jpg" 
+<img src="https://habrastorage.org/files/eb1/131/013/eb1131013c844812a2481a7af9aaea3f.jpg" 
 align="left" border="2" width="30%" />
 <b>EstherJS</b> — данный скрипт предназначен для поворота, вращения на 0-360° элементов на странице. Скрипт является абсолютно кроссбраузерным, легок в использовании. Поддержка браузерами: IE7+, Chrome, Safari, Opera, Firefox. Объем: 0.5 KB. В разработке осталось задание по выпуску плагина для jQuery 1.x. Выпуск: 2014. <a href="http://splincode.ru/esther/">Подробнее</a> <br> <br><br>
 
